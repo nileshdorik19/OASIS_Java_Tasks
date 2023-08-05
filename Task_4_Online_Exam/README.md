@@ -1,2 +1,2 @@
-# Oasis_Java_Tasks
-Tasks given by the Oasis Infobyte based on JAVA programming Language
+# Online Examination
+Build a Java Program for Online Examination using the MCQ format
